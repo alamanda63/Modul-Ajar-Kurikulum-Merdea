@@ -1,0 +1,6 @@
+{
+  "name": "ModulAjar AI - Generator Modul Ajar Kurikulum Merdeka",
+  "description": "Generator penyusun modul ajar Kurikulum Merdeka otomatis berbasis Capaian Pembelajaran (CP), Tujuan Pembelajaran (TP), dan diferensiasi capaian peserta didik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
